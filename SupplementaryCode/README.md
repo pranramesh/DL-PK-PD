@@ -1,3 +1,5 @@
+NOTE: This is Supplementary Code from the paper titled "Neural-ODE for pharmacokinetics modeling and its advantage to alternative machine learning models in predicting new dosing regimens" by Lu et al. I did not create this code, it is simply being used for benchmarking purposes.
+
 ---
 output:
   html_document: default
